@@ -1,6 +1,9 @@
 {
   "name": "pune-healthcare-geoai",
   "image": "mcr.microsoft.com/devcontainers/python:1-3.11-bookworm",
+  "features": {
+    "ghcr.io/devcontainers/features/git-lfs:1": {}
+  },
   "customizations": {
     "vscode": {
       "extensions": [
