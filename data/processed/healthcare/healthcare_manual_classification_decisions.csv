@@ -1,0 +1,19 @@
+source_key,proposed_category,confidence,decision_rationale,display_name,healthcare,amenity,healthcare:speciality,health_facility:type,facility_category,geometry_type,decision_status
+node/1065057907,clinic,Medium,Name and clinic-related specialties support clinic classification.,VitaLife Clinic,hospital,clinic,clinic;pathology;pharmacy,,review_tag_conflict,Point,proposed_not_yet_applied
+node/3536142573,,Unresolved,Healthcare centre and pharmacy tags disagree; insufficient evidence.,Ambika Medicare,centre,pharmacy,,,review_tag_conflict,Point,needs_manual_verification
+node/5695637393,pharmacy,High,Healthcare tag is pharmacy and name is Metro Chemist.,Metro Chemist,pharmacy,hospital,,,review_tag_conflict,Point,proposed_not_yet_applied
+node/5695637395,doctor,High,Healthcare tag is doctor and name indicates medical practice.,Damle Pediatric & general practice,doctor,hospital,,,review_tag_conflict,Point,proposed_not_yet_applied
+node/5832438811,diagnostic_service,Medium,Healthcare tag is laboratory; hospital amenity needs verification.,Golwilkar Metropolis Heath Service (India) Pvt Ltd,laboratory,hospital,,,review_tag_conflict,Point,proposed_not_yet_applied
+node/7040434933,alternative_care,Medium,Name and specialty indicate Ayurveda; original healthcare value is retained.,VEDACARE AYURVEDA,VEDACARE AYURVEDA,,ayurveda,,unmapped_healthcare_value,Point,proposed_not_yet_applied
+node/7043686747,health_centre,High,CGHS dispensary with healthcare centre and dispensary facility type.,CGHS Dispensary No.2,centre,clinic,,dispensary,review_tag_conflict,Point,proposed_not_yet_applied
+node/7048261228,health_centre,High,CGHS dispensary with healthcare centre and dispensary facility type.,CGHS Dispensary No.4,centre,clinic,,dispensary,review_tag_conflict,Point,proposed_not_yet_applied
+node/7069577086,hospital,Medium,Name and hospital amenity support hospital classification.,Undre Hospital;Undre Hospital Wagholi,clinic,hospital;clinic,crtical_care,,review_tag_conflict,Point,proposed_not_yet_applied
+node/7649461736,hospital,Medium,Name and hospital amenity support hospital classification.,Dignity 9 Multispecality Hospital,clinic,hospital;clinic,,,review_tag_conflict,Point,proposed_not_yet_applied
+node/7649461751,clinic,Medium,Healthcare clinic tag and homeopathy specialty support clinic classification.,Imax Multispeciality Hospital;Imax Multispcality Hospital,clinic,hospital;clinic,homeopathy,,review_tag_conflict,Point,proposed_not_yet_applied
+node/7649461769,hospital,Medium,Name and hospital amenity support hospital classification.,Chirayu Hospital,clinic,hospital;clinic,,,review_tag_conflict,Point,proposed_not_yet_applied
+node/8261110954,dentist,High,Dental clinic name and dental specialties support dentist classification.,Synergy Dental Clinic;synergy dental clinic,clinic;hospital,clinic;hospital,Prosthodontics;Dental_Implantation;Aesthetic_Dentistry,,mixed_clinic_hospital,Point,proposed_not_yet_applied
+node/8811062607,hospital,Medium,Name and hospital amenity support hospital classification.,Care Multispeciality Hospital,clinic,hospital;clinic,,,review_tag_conflict,Point,proposed_not_yet_applied
+node/9128865193,,Unresolved,Clinic name conflicts with chemist and nursing home tags.,Caring Clinic,chemist,nursing_home,,,review_tag_conflict,Point,needs_manual_verification
+node/9317125306,clinic,Medium,ENT clinic name and otolaryngology specialty support clinic classification.,Prisha ENT Clinic;prisha ENT  clinic,clinic;hospital,clinic;hospital,otolaryngology;pathology,,mixed_clinic_hospital,Point,proposed_not_yet_applied
+way/108099341,hospital,High,Hospital name and amenity support hospital classification.,Rajiv Gandhi Hospital,centre,hospital,,,review_tag_conflict,Polygon,proposed_not_yet_applied
+way/984933921,clinic,Medium,Primary Health Clinic name supports clinic classification; generic healthcare tag needs verification.,Kondhwa Primary Health Clinic,yes,,,,unspecified_healthcare,Polygon,proposed_not_yet_applied

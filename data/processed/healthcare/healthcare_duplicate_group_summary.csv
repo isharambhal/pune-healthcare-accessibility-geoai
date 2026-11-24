@@ -1,0 +1,35 @@
+candidate_group_id,number_of_records,number_of_candidate_pairs,facility_names,source_keys,review_status
+DUP_G001,3,2,Ruby Hall Clinic,node/10172977877 | node/7649461743 | way/53098668,pending_manual_review
+DUP_G002,3,3,Shinde Hospitals | Shinde hospitals,node/10219198235 | node/10219230632 | node/10219230642,pending_manual_review
+DUP_G003,2,1,Mothercare Hospital | mothercare hospital,node/10172914027 | node/7043164499,pending_manual_review
+DUP_G004,2,1,Suraj Hospital | suraj hospital,node/10172914029 | node/7054106775,pending_manual_review
+DUP_G005,2,1,Sharda Clinic | sharda clinic,node/10172914032 | node/7055499239,pending_manual_review
+DUP_G006,2,1,Harsh Hospital | harsh hospital,node/10172914043 | node/7048928941,pending_manual_review
+DUP_G007,2,1,Apollo Clinic | apollo clinic,node/10172914044 | node/8903544037,pending_manual_review
+DUP_G008,2,1,Bhagali Clinic and Nursing Home | bhagali clinic and nursing home,node/10172914045 | node/7043399090,pending_manual_review
+DUP_G009,2,1,Umarji Hospital,node/10172942164 | node/7045823776,pending_manual_review
+DUP_G010,2,1,Meera Hospital,node/10172942168 | node/6612986080,pending_manual_review
+DUP_G011,2,1,CHandralok Hospital | Chandralok Hospital,node/10172942176 | way/360252547,pending_manual_review
+DUP_G012,2,1,Phadke Hospital,node/10172977866 | way/217431364,pending_manual_review
+DUP_G013,2,1,Seth Tarachand Hospital,node/10172977868 | relation/5664301,pending_manual_review
+DUP_G014,2,1,Poona Hospital and Research Centre,node/10172986709 | way/217773616,pending_manual_review
+DUP_G015,2,1,DEENDAYAL MEMORIAL HOSPITAL | Deendayal Memorial Hospital,node/10172986710 | way/238842686,pending_manual_review
+DUP_G016,2,1,KAMLA NEHRU HOSPITAL | Kamla Nehru Hospital,node/10172986712 | way/218059566,pending_manual_review
+DUP_G017,2,1,RANKA HOSPITAL | Ranka Hospital,node/10172986715 | node/7047946884,pending_manual_review
+DUP_G018,2,1,Joshi Hospital,node/10173005946 | node/9295472627,pending_manual_review
+DUP_G019,2,1,Prayag Hospital,node/10173005947 | way/217431359,pending_manual_review
+DUP_G020,2,1,HARIJIVAN HOSPITAL | Harijivan Hospital,node/10173007819 | node/7087491750,pending_manual_review
+DUP_G021,2,1,Skin and Hair Clinic,node/10219140950 | node/7649461744,pending_manual_review
+DUP_G022,2,1,Care Hospital | care hospital,node/10219198228 | node/10219230627,pending_manual_review
+DUP_G023,2,1,Morya Hospitals,node/10219198237 | node/10219230638,pending_manual_review
+DUP_G024,2,1,lonkar,node/11527131195 | way/1240654815,pending_manual_review
+DUP_G025,2,1,Asian Eye Hospital,node/12473131484 | way/1412791747,pending_manual_review
+DUP_G026,2,1,Morya Multispeciality Hospital,node/12942061149 | node/8811048175,pending_manual_review
+DUP_G027,2,1,White Pearl Dental Clinic,node/14293267777 | node/14293307610,pending_manual_review
+DUP_G028,2,1,Gokhale Hospital,node/7049292470 | node/7651453370,pending_manual_review
+DUP_G029,2,1,Shintre Hospital,node/7651453390 | way/758253943,pending_manual_review
+DUP_G030,2,1,KEM Hospital,node/7651453413 | way/215075307,pending_manual_review
+DUP_G031,2,1,Ishaan Orthopedic Clinic,node/9110718973 | way/360235763,pending_manual_review
+DUP_G032,2,1,Chellaram Hospital,node/9180373001 | way/1410470137,pending_manual_review
+DUP_G033,2,1,Hridan Speciality Clinic,node/9317265349 | way/359921188,pending_manual_review
+DUP_G034,2,1,Jupiter Hospital,way/1410820103 | way/652021497,pending_manual_review

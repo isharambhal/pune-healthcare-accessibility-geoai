@@ -225,3 +225,5 @@ __marimo__/
 data/raw/
 docs/historical/
 .venv/
+cache/
+data/processed/roads/

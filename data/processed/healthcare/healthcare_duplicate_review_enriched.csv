@@ -1,0 +1,38 @@
+source_key_1,source_key_2,name_1,name_2,category_1,category_2,healthcare_1,healthcare_2,amenity_1,amenity_2,geometry_1,geometry_2,geometry_relationship,distance_m,intersection_area_m2,polygon_overlap_ratio,review_decision
+node/6612986080,node/10172942168,Meera Hospital,Meera Hospital,hospital,hospital,hospital,hospital,hospital,hospital,Point,Point,nearby_points,3.23,,,pending_manual_review
+node/7043164499,node/10172914027,Mothercare Hospital,mothercare hospital,hospital,hospital,,hospital,hospital,hospital,Point,Point,nearby_points,12.33,,,pending_manual_review
+node/7043399090,node/10172914045,Bhagali Clinic and Nursing Home,bhagali clinic and nursing home,clinic,hospital,,hospital,clinic,hospital,Point,Point,nearby_points,1.59,,,pending_manual_review
+node/7045823776,node/10172942164,Umarji Hospital,Umarji Hospital,hospital,hospital,hospital,hospital,hospital,hospital,Point,Point,nearly_coincident_points,0.18,,,pending_manual_review
+node/7047946884,node/10172986715,Ranka Hospital,RANKA HOSPITAL,hospital,hospital,,hospital,hospital,hospital,Point,Point,nearby_points,6.15,,,pending_manual_review
+node/7048928941,node/10172914043,Harsh Hospital,harsh hospital,hospital,hospital,,hospital,hospital,hospital,Point,Point,nearby_points,1.99,,,pending_manual_review
+node/7049292470,node/7651453370,Gokhale Hospital,Gokhale Hospital,hospital,hospital,,,hospital,hospital,Point,Point,nearby_points,5.17,,,pending_manual_review
+node/7054106775,node/10172914029,Suraj Hospital,suraj hospital,hospital,hospital,,hospital,hospital,hospital,Point,Point,nearby_points,4.34,,,pending_manual_review
+node/7055499239,node/10172914032,Sharda Clinic,sharda clinic,clinic,hospital,,hospital,clinic,hospital,Point,Point,nearby_points,1.54,,,pending_manual_review
+node/7087491750,node/10173007819,Harijivan Hospital,HARIJIVAN HOSPITAL,hospital,hospital,,hospital,hospital,hospital,Point,Point,nearby_points,7.84,,,pending_manual_review
+node/7649461743,way/53098668,Ruby Hall Clinic,Ruby Hall Clinic,clinic,clinic,,,clinic,clinic,Point,Polygon,point_inside_polygon,0.0,,,pending_manual_review
+node/7649461744,node/10219140950,Skin and Hair Clinic,Skin and Hair Clinic,clinic,clinic,,clinic,clinic,clinic,Point,Point,nearby_points,2.12,,,pending_manual_review
+node/7651453390,way/758253943,Shintre Hospital,Shintre Hospital,hospital,hospital,hospital,hospital,hospital,hospital,Point,Polygon,nearby_non_intersecting_geometries,12.53,,,pending_manual_review
+node/7651453413,way/215075307,KEM Hospital,KEM Hospital,hospital,hospital,hospital,hospital,hospital,hospital,Point,Polygon,point_inside_polygon,0.0,,,pending_manual_review
+node/8811048175,node/12942061149,Morya Multispeciality Hospital,Morya Multispeciality Hospital,hospital,hospital,,hospital,hospital,hospital,Point,Point,nearby_points,2.35,,,pending_manual_review
+node/8903544037,node/10172914044,Apollo Clinic,apollo clinic,clinic,hospital,clinic,hospital,clinic,hospital,Point,Point,nearby_points,1.38,,,pending_manual_review
+node/9110718973,way/360235763,Ishaan Orthopedic Clinic,Ishaan Orthopedic Clinic,clinic,clinic,clinic,clinic,clinic,clinic,Point,Polygon,point_on_polygon_boundary,0.0,,,pending_manual_review
+node/9180373001,way/1410470137,Chellaram Hospital,Chellaram Hospital,hospital,hospital,hospital,hospital,hospital,hospital,Point,Polygon,point_inside_polygon,0.0,,,pending_manual_review
+node/9295472627,node/10173005946,Joshi Hospital,Joshi Hospital,hospital,hospital,hospital,hospital,hospital,hospital,Point,Point,nearby_points,2.89,,,pending_manual_review
+node/9317265349,way/359921188,Hridan Speciality Clinic,Hridan Speciality Clinic,clinic,clinic,clinic,clinic,clinic,clinic,Point,Polygon,point_inside_polygon,0.0,,,pending_manual_review
+node/10172942176,way/360252547,CHandralok Hospital,Chandralok Hospital,hospital,hospital,hospital,,hospital,hospital,Point,Polygon,point_inside_polygon,0.0,,,pending_manual_review
+node/10172977866,way/217431364,Phadke Hospital,Phadke Hospital,hospital,hospital,hospital,hospital,hospital,hospital,Point,Polygon,point_inside_polygon,0.0,,,pending_manual_review
+node/10172977868,relation/5664301,Seth Tarachand Hospital,Seth Tarachand Hospital,hospital,hospital,hospital,hospital,hospital,hospital,Point,MultiPolygon,point_inside_polygon,0.0,,,pending_manual_review
+node/10172977877,way/53098668,Ruby Hall Clinic,Ruby Hall Clinic,hospital,clinic,hospital,,hospital,clinic,Point,Polygon,point_inside_polygon,0.0,,,pending_manual_review
+node/10172986709,way/217773616,Poona Hospital and Research Centre,Poona Hospital and Research Centre,hospital,hospital,hospital,hospital,hospital,hospital,Point,Polygon,point_inside_polygon,0.0,,,pending_manual_review
+node/10172986710,way/238842686,DEENDAYAL MEMORIAL HOSPITAL,Deendayal Memorial Hospital,hospital,hospital,hospital,hospital,hospital,hospital,Point,Polygon,point_inside_polygon,0.0,,,pending_manual_review
+node/10172986712,way/218059566,KAMLA NEHRU HOSPITAL,Kamla Nehru Hospital,hospital,hospital,hospital,hospital,hospital,hospital,Point,Polygon,point_inside_polygon,0.0,,,pending_manual_review
+node/10173005947,way/217431359,Prayag Hospital,Prayag Hospital,hospital,hospital,hospital,hospital,hospital,hospital,Point,Polygon,point_inside_polygon,0.0,,,pending_manual_review
+node/10219198228,node/10219230627,care hospital,Care Hospital,hospital,hospital,hospital,hospital,hospital,hospital,Point,Point,nearby_points,3.3,,,pending_manual_review
+node/10219198235,node/10219230632,Shinde Hospitals,Shinde Hospitals,hospital,hospital,hospital,hospital,hospital,hospital,Point,Point,nearby_points,6.51,,,pending_manual_review
+node/10219198235,node/10219230642,Shinde Hospitals,Shinde hospitals,hospital,hospital,hospital,hospital,hospital,hospital,Point,Point,nearby_points,8.48,,,pending_manual_review
+node/10219198237,node/10219230638,Morya Hospitals,Morya Hospitals,hospital,hospital,hospital,hospital,hospital,hospital,Point,Point,nearby_points,7.63,,,pending_manual_review
+node/10219230632,node/10219230642,Shinde Hospitals,Shinde hospitals,hospital,hospital,hospital,hospital,hospital,hospital,Point,Point,nearby_points,12.76,,,pending_manual_review
+node/11527131195,way/1240654815,lonkar,lonkar,hospital,hospital,hospital,hospital,hospital,hospital,Point,Polygon,point_inside_polygon,0.0,,,pending_manual_review
+node/12473131484,way/1412791747,Asian Eye Hospital,Asian Eye Hospital,doctor,hospital,doctor,hospital,doctors,hospital,Point,Polygon,point_inside_polygon,0.0,,,pending_manual_review
+node/14293267777,node/14293307610,White Pearl Dental Clinic,White Pearl Dental Clinic,dentist,dentist,dentist,dentist,dentist,dentist,Point,Point,nearby_points,4.02,,,pending_manual_review
+way/652021497,way/1410820103,Jupiter Hospital,Jupiter Hospital,hospital,hospital,hospital,hospital,hospital,hospital,Polygon,Polygon,overlapping_polygons,0.0,3373.9134196960995,0.47904855672446206,pending_manual_review
